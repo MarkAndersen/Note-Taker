@@ -23,7 +23,7 @@ To start the server:
 -node server.js
 
 ## Challenges & Thoughts:
-I had issues with the application's proper functionality regarding storing notes and whatnot and having the CSS work correctly. I also had trouble properly utilizing Insomnia and at times misunderstood what it was showing, specifically with POST requests and how sending JSON data was to be done within Insomnia and not the mock front end portion. It was cathartic getting the routes correct and finally getting the information stored properly.
+I had issues with the application's proper functionality regarding storing notes and whatnot and having the CSS work correctly. I also had trouble properly utilizing Insomnia and at times misunderstood what it was showing, specifically with POST requests and how sending JSON data was to be done within Insomnia and not the mock front end portion. It was cathartic getting the routes correct and finally getting the information stored properly. For some reason the front end is not displaying the stored data? I am unsure why there is an issue pulling back the stored data to display it. The routes and such are transmitting information.
 
 ## Questions:
  https://github.com/MarkAndersen
